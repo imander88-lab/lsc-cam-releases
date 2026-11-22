@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "",
-  "changelog": "Initial release",
+  "versionCode": 89,
+  "versionName": "1.0.1",
+  "apkUrl": "https://github.com/imander88-lab/lsc-cam-releases/releases/download/v1.0.1/lsc-cam-1.0.1.apk",
+  "changelog": "Tes update otomatis",
   "forceUpdate": false
 }
