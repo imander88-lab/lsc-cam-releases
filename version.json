@@ -1,7 +1,7 @@
 {
-  "versionCode": 97,
-  "versionName": "1.0.5",
-  "apkUrl": "https://github.com/imander88-lab/lsc-cam-releases/releases/download/v1.0.5/lsc-cam-1.0.5.apk",
-  "changelog": "Perbaikan dan peningkatan",
+  "versionCode": 100,
+  "versionName": "1.0.6",
+  "apkUrl": "https://github.com/imander88-lab/lsc-cam-releases/releases/download/v1.0.6/lsc-cam-1.0.6.apk",
+  "changelog": "mode pro atau manual buat set iso,shutter speed,white balance, EV",
   "forceUpdate": false
 }
