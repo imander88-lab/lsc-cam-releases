@@ -1,7 +1,7 @@
 {
-  "versionCode": 111,
-  "versionName": "1.0.7",
-  "apkUrl": "https://github.com/imander88-lab/lsc-cam-releases/releases/download/v1.0.7/lsc-cam-1.0.7.apk",
-  "changelog": "Penambahan fitur cotum photograpic style, fokus peaking",
+  "versionCode": 115,
+  "versionName": "1.0.8",
+  "apkUrl": "https://github.com/imander88-lab/lsc-cam-releases/releases/download/v1.0.8/lsc-cam-1.0.8.apk",
+  "changelog": "Perbaikan dan peningkatan LSC",
   "forceUpdate": false
 }
