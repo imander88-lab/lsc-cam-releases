@@ -1,7 +1,7 @@
 {
-  "versionCode": 115,
-  "versionName": "1.0.8",
-  "apkUrl": "https://github.com/imander88-lab/lsc-cam-releases/releases/download/v1.0.8/lsc-cam-1.0.8.apk",
-  "changelog": "Perbaikan dan peningkatan LSC",
+  "versionCode": 125,
+  "versionName": "1.0.9",
+  "apkUrl": "https://github.com/imander88-lab/lsc-cam-releases/releases/download/v1.0.9/lsc-cam-1.0.9.apk",
+  "changelog": "Watermak Costum, Koreksi LSC yang tidak support RAW",
   "forceUpdate": false
 }
